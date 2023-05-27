@@ -1,0 +1,48 @@
+body {
+    background-color: #e7e1d8;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif;
+  }
+  .heading{
+    font-size: 50px;
+    font-family: Bree serif;
+    padding-top: 50px;
+    color:#1745ce;
+    text-decoration: underline;
+  }
+  .converter {
+    width: 500px;
+    margin: 20px 0px 0px 60px;
+  }
+  
+  .input {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .output {
+    font-weight: bold;
+  }
+  .para{
+    font-size: 25px;
+    font-family: Roboto;
+    padding: 5px;
+    color: #c6082e;
+  }
+  .form{
+    height: 30px;
+    width: 200px;
+    border: 0px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+
+  }
+  .image{
+    height: 50vh;
+    width: 30vw;
+    border-radius: 10px;
+    margin-top: 30vh;
+    margin-left: 30px;
+  }
